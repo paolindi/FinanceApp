@@ -21,10 +21,6 @@ A comprehensive and intuitive mobile application developed with Flutter to manag
 * **Fixed Yields:** Automatic estimation of annual cash flow for Bonds and Deposit Accounts based on the entered interest rate.
 * **Asset Allocation:** Dual view (List and Charts) with grouping by Category. Pie charts to analyze portfolio distribution by *Type* and *Sector*.
 
-### 🏦 Loans & Mortgages
-
-* **Debt Management:** Track ongoing financing and remaining debt.
-* **Progress Bar:** Graphical visualization of repayment progress with a practical **"+1 Installment"** quick button to automatically deduct monthly payments.
 
 ### 📊 Advanced Statistics
 
